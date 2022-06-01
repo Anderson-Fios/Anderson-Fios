@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <html>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<i class="devicon-spring-plain colored"></i>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  </head>
+  <body>
+    <i class="devicon-spring-plain colored"></i>
+  </body>
 </html>
